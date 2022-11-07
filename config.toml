@@ -3,3 +3,48 @@ languageCode = 'en-us'
 title = 'AB Protocol'
 
 theme = "PaperMod"
+
+[params]
+ShowBreadCrumbs = true
+ShowReadingTime = true
+
+[homeInfoParams]
+Title = "Hi there wave"
+Content = "Can be Info, links, about..."
+
+[menu]
+
+# [[menu.main]]
+# identifier = 'about'
+# name = 'about hugo'
+# pre = "<i class='fa fa-heart'></i>"
+# url = '/about/'
+# weight = -110
+
+# [menu.main.params]
+# class = 'highlight-menu-item'
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "example"
+name = "example.org"
+url = "https://example.org"
+weight = 30
+parent = 'tags'
+
+[[menu.main]]
+identifier = "example"
+name = "Search"
+url = "/search/"
+weight = 40
