@@ -7,3 +7,5 @@
 - https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/
 
 - https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite
+
+- [Menus](https://gohugo.io/content-management/menus/)

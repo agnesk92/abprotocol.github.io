@@ -6,7 +6,7 @@ theme = "PaperMod"
 
 [params]
 ShowBreadCrumbs = true
-ShowReadingTime = true
+# ShowReadingTime = true
 
 [homeInfoParams]
 Title = "Hi there wave"
@@ -25,9 +25,9 @@ Content = "Can be Info, links, about..."
 # class = 'highlight-menu-item'
 
 [[menu.main]]
-identifier = "categories"
-name = "Categories"
-url = "/categories/"
+identifier = "protocol"
+name = "Protocol"
+url = "/protocol/"
 weight = 10
 
 [[menu.main]]
