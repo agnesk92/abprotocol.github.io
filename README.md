@@ -1,11 +1,25 @@
-- https://github.com/gohugoio/hugoDocs
+# AB Protocol Hugo Website
 
-- [Hugo Quick Start Guide](https://gohugo.io/getting-started/quick-start/)
+## How To
 
-- https://themes.gohugo.io/themes/hugo-papermod/
+### Set Up
 
-- https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/
+### Run
 
-- https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite
+```shell
+hugo server -D
+```
 
-- [Menus](https://gohugo.io/content-management/menus/)
+## Links
+
+- [GH: Hugo Docs](https://github.com/gohugoio/hugoDocs)
+
+- [Hugo Docs: Hugo Quick Start Guide](https://gohugo.io/getting-started/quick-start/)
+
+- [Hugo Docs: Menus](https://gohugo.io/content-management/menus/)
+
+- [Hugo Docs: Hugo PaperMod Theme](https://themes.gohugo.io/themes/hugo-papermod/)
+
+- [PaperMod docs: Installation](https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/)
+
+- [PaperMod docs: Example](https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite)
