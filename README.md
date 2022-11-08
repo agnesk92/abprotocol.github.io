@@ -4,17 +4,31 @@
 
 ### Set Up
 
+- [Hugo Docs: Hugo Quick Start Guide](https://gohugo.io/getting-started/quick-start/)
+
+```shell
+# Create project
+hugo new site abprotocol
+
+# Theme
+cd abprotocol
+git init
+# add your team as submodule..
+
+...
+```
+
 ### Run
 
 ```shell
 hugo server -D
 ```
 
+### Implement
+
 ## Links
 
 - [GH: Hugo Docs](https://github.com/gohugoio/hugoDocs)
-
-- [Hugo Docs: Hugo Quick Start Guide](https://gohugo.io/getting-started/quick-start/)
 
 - [Hugo Docs: Menus](https://gohugo.io/content-management/menus/)
 
