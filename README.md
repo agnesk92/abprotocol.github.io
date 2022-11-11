@@ -1,32 +1,31 @@
 # AB Protocol Hugo Website
 
-## How To
+## Set Up
 
-### Set Up
+Install [go](https://go.dev/doc/manage-install), install [hugo](https://github.com/gohugoio/hugo#choose-how-to-install)
 
-- [Hugo Docs: Hugo Quick Start Guide](https://gohugo.io/getting-started/quick-start/)
-
-```shell
-# Create project
-hugo new site abprotocol
-
-# Theme
-cd abprotocol
-git init
-# add your team as submodule..
-
-...
-```
-
-### Run
+## Run
 
 ```shell
 hugo server -D
 ```
 
-### Implement
+Leaf structure:
+
+```
+./posts/protocol/{leaf}/index.md
+```
+
+Branch structure:
+
+```
+./posts/protocol/{branch}/_index.md
+./posts/protocol/{branch}/{leaf}/index.md
+```
 
 ## Links
+
+- [Hugo Docs: Hugo Quick Start Guide](https://gohugo.io/getting-started/quick-start/)
 
 - [GH: Hugo Docs](https://github.com/gohugoio/hugoDocs)
 
