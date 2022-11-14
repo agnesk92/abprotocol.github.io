@@ -1,6 +1,6 @@
 baseURL = 'https://agnesk92.github.io/abprotocol'
-# baseURL = 'https://example.com'
-languageCode = 'en-us'
+
+# languageCode = 'en-us'
 title = 'AB Protocol'
 
 theme = "PaperMod"
