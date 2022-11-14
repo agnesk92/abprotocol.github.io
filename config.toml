@@ -1,9 +1,10 @@
-# baseURL = 'https://agnesk92.github.io/abprotocol'
-baseURL = 'https://example.com'
+baseURL = 'https://agnesk92.github.io/abprotocol'
+# baseURL = 'https://example.com'
 languageCode = 'en-us'
 title = 'AB Protocol'
 
 theme = "PaperMod"
+publishDir = "docs"
 
 [params]
 ShowBreadCrumbs = true
