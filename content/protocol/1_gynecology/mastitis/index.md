@@ -1,5 +1,8 @@
 ---
 title: "Mastitis Puerperalis"
+tags:
+  - Gynecology
+  - Protocol
 ---
 
 ## Leggyakoribb kórokozó
