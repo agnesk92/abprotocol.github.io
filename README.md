@@ -4,6 +4,14 @@
 
 Install [go](https://go.dev/doc/manage-install), install [hugo](https://github.com/gohugoio/hugo#choose-how-to-install)
 
+To get the theme submodule pulled:
+
+```shell
+git submodule init
+
+git submodule update
+```
+
 ## Run
 
 ```shell
