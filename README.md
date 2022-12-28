@@ -31,6 +31,14 @@ Branch structure:
 ./posts/protocol/{branch}/{leaf}/index.md
 ```
 
+## Build
+
+```shell
+git submodule update
+
+hugo -D -d docs
+```
+
 ## Links
 
 - [Hugo Docs: Hugo Quick Start Guide](https://gohugo.io/getting-started/quick-start/)
